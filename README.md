@@ -7,8 +7,6 @@
 
 An intelligent web application that generates descriptive captions for images using state-of-the-art Deep Learning. Built with **Streamlit** and powered by Salesforce's **BLIP** (Bootstrapping Language-Image Pre-training) model.
 
-![App Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=AI+Image+Captioning+App)
-
 **🚀 Live App Preview**: [Try the App Here](https://blip-image-caption-web-app.streamlit.app/)
 
 ## ✨ Features
