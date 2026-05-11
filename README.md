@@ -9,6 +9,8 @@ An intelligent web application that generates descriptive captions for images us
 
 ![App Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=AI+Image+Captioning+App)
 
+**🚀 Live App Preview**: [Try the App Here](https://blip-image-caption-web-app.streamlit.app/)
+
 ## ✨ Features
 
 - 🚀 **Real-time Image Captioning** - Upload images and get AI-generated descriptions instantly
